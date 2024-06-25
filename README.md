@@ -8,3 +8,4 @@
 - [ ] 파일디렉토리 구조 공부 (fsd와 아토믹)
 - [ ] react-query api wrapping 방법연구 => 하나의 훅 파일로 api를 관리하는 것으로 결정(개인적으로 참조가 많은 파일을 싫어함) 
 - [ ] tokenController class제작 
+- [ ] FFmpeg를 이용한 converting 연구 => 일단 압축한 mp4파일로 변경하는 것을 목적으로
